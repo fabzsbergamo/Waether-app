@@ -44,25 +44,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Love this tool. I get instant weather updates!",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Gardener",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "This app has given me all the information I need to plan my day. It gives very precise weather updates which is perfect for me and my line of business",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Car wash busniess",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Great for personal and business use!",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Events Planner",
     img: people03,
   },
 ];
