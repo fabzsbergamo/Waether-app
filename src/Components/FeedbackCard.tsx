@@ -4,7 +4,7 @@ const FeedbackCard = () => (
   <><div className="flex justify-between flex-col px-10 py-12 rounded-[20px]  max-w-[370px] md:mr-10 sm:mr-5 mr-0 my-5 feedback-card text-white">
         <img src={quotes} alt="double_quotes" className="w-[42.6px] h-[27.6px] object-contain" />
         <p className="font-poppins font-normal text-[18px] leading-[32.4px] text-white my-10">
-            Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.
+        This app has given me all the information I need to plan my day. It gives very precise weather updates which is perfect for me and my line of business
         </p>
 
         <div className="flex flex-row">
@@ -14,7 +14,7 @@ const FeedbackCard = () => (
                     Herman Jensen
                 </h4>
                 <p className="font-poppins font-normal text-[16px] leading-[24px] text-dimWhite">
-                    Founder & Leader
+                Events Planner
                 </p>
             </div>
         </div>
@@ -22,7 +22,7 @@ const FeedbackCard = () => (
     <div className="flex justify-between flex-col px-10 py-12 rounded-[20px]  max-w-[370px] md:mr-10 sm:mr-5 mr-0 my-5 feedback-card text-white">
             <img src={quotes} alt="double_quotes" className="w-[42.6px] h-[27.6px] object-contain" />
             <p className="font-poppins font-normal text-[18px] leading-[32.4px] text-white my-10">
-                Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.
+            Love this tool. I get instant weather updates!
             </p>
 
             <div className="flex flex-row">
@@ -32,7 +32,7 @@ const FeedbackCard = () => (
                         Herman Jensen
                     </h4>
                     <p className="font-poppins font-normal text-[16px] leading-[24px] text-dimWhite">
-                        Founder & Leader
+                    Car Wash Busniess
                     </p>
                 </div>
             </div>
@@ -40,7 +40,7 @@ const FeedbackCard = () => (
         <div className="flex justify-between flex-col px-10 py-12 rounded-[20px]  max-w-[370px] md:mr-10 sm:mr-5 mr-0 my-5 feedback-card text-white">
             <img src={quotes} alt="double_quotes" className="w-[42.6px] h-[27.6px] object-contain" />
             <p className="font-poppins font-normal text-[18px] leading-[32.4px] text-white my-10">
-                Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.
+            Great for personal and business use!
             </p>
 
             <div className="flex flex-row">
@@ -50,7 +50,7 @@ const FeedbackCard = () => (
                         Herman Jensen
                     </h4>
                     <p className="font-poppins font-normal text-[16px] leading-[24px] text-dimWhite">
-                        Founder & Leader
+                    Gardener
                     </p>
                 </div>
             </div>
